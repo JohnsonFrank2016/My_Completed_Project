@@ -1,0 +1,8 @@
+not
+	https://icook.tw/recipes/349622
+
+vip
+	https://icook.tw/recipes/358917
+
+out:
+	https://icook.tw/recipes/320141
